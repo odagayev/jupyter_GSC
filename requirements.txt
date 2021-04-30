@@ -47,7 +47,7 @@ python-dotenv==0.10.4
 pytz==2019.3
 pyzmq==18.1.1
 qtconsole==4.6.0
-rsa==4.0
+rsa==4.7
 Send2Trash==1.5.0
 six==1.14.0
 terminado==0.8.3
